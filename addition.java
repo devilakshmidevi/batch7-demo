@@ -10,11 +10,11 @@ System.out.println("Enter second number value");
 num2=s.nextInt();
 res=num1+num2;
 System.out.println("Result is "+res);
+if (res>0)
+{
+	System.out.println("result is positive value")
 }
-}
-:wq!
-quit
-`:wq
-:wq1
-:WQ!
-
+else
+{
+	System.out.println("Result is negative value")
+}
