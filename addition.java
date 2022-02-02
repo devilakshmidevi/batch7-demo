@@ -21,6 +21,5 @@ else
 System.out.println("Hello Thanks for joining devops course");
 System.out.println("This is extra line added");
 System.out.println("completed the java program");
-System.out.println("Thank you");
 }
 }
