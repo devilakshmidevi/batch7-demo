@@ -16,5 +16,7 @@ if (res>0)
 }
 else
 {
-	System.out.println("Result is negative value")
+	System.out.println("Result is negative value");
+System.out.println("Hello Thanks for joining devops course");
+}
 }

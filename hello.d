@@ -1,0 +1,4 @@
+main();
+{
+	Println("output c");
+}
