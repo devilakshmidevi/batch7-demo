@@ -1,4 +1,0 @@
-main();
-{
-	Println("output c");
-}
